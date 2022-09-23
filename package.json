@@ -1,10 +1,10 @@
 {
-  "name": "new-project",
+  "name": "layout-page-my-bike",
   "version": "1.0.0",
   "description": "",
   "main": "gulpfile.js",
   "type": "module",
-  "homepage": "https://ik-web.github.io/gulp-workflow",
+  "homepage": "https://ik-web.github.io/layout-page-my-bike",
   "scripts": {
     "start": "gulp",
     "build": "gulp build --build",
