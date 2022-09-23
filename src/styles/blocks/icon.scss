@@ -7,22 +7,22 @@
   background-repeat: no-repeat;
 
   &--menu {
-    background-image: url("../img/icons/menu.svg");
+    background-image: url("img/icons/menu.svg");
 
     @include on-desktop {
       transition: background-image $smooth-duration linear;
 
       &:hover {
-        background-image: url("../img/icons/menu-hovered.svg");
+        background-image: url("img/icons/menu-hovered.svg");
       }
     }
   }
 
   &--cross {
-    background-image: url("../img/icons/cross.svg");
+    background-image: url("img/icons/cross.svg");
   }
 
   &--phone {
-    background-image: url("../img/icons/phone.svg");
+    background-image: url("img/icons/phone.svg");
   }
 }

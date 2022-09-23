@@ -1,6 +1,6 @@
 .footer {
   height: 200px;
-  background: url("../img/footer/footer.png") center / cover no-repeat;
+  background: url("img/footer/footer.png") center / cover no-repeat;
 
   @include on-tablet {
     height: 480px;
