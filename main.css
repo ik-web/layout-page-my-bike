@@ -1,6 +1,6 @@
-@import 'https://fonts.googleapis.com/css2?family=Poppins:wght@400;
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;
 
-500;700&display=swap';
+500;700&display=swap");
 .page {
   font-family: "Poppins", sans-serif;
   font-weight: 400;
@@ -156,15 +156,15 @@
 }
 
 .icon--menu {
-  background-image: url("../img/icons/menu.svg");
+  background-image: url("img/icons/menu.svg");
 }
 
 .icon--cross {
-  background-image: url("../img/icons/cross.svg");
+  background-image: url("img/icons/cross.svg");
 }
 
 .icon--phone {
-  background-image: url("../img/icons/phone.svg");
+  background-image: url("img/icons/phone.svg");
 }
 
 .menu {
@@ -256,7 +256,7 @@
           box-sizing: border-box;
   height: 100vh;
   padding-bottom: 20vh;
-  background: url("../img/header/header-1.png") center/cover no-repeat;
+  background: url("img/header/header-1.png") center/cover no-repeat;
 }
 
 .home__title {
@@ -564,7 +564,7 @@
 
 .footer {
   height: 200px;
-  background: url("../img/footer/footer.png") center/cover no-repeat;
+  background: url("img/footer/footer.png") center/cover no-repeat;
 }
 
 @media (min-width: 600px) {
@@ -1283,7 +1283,7 @@
   }
 
   .icon--menu:hover {
-    background-image: url("../img/icons/menu-hovered.svg");
+    background-image: url("img/icons/menu-hovered.svg");
   }
 
   .menu__link {
