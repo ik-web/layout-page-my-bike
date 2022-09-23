@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ik-web"><< DEMO LINK >></a> 
+  <a href="https://ik-web.github.io/layout-page-my-bike"><< DEMO LINK >></a> 
 </p>
 
 ## Description:
